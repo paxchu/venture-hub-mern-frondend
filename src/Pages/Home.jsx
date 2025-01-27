@@ -11,7 +11,6 @@ function Home() {
                     <div>
                         <Navbar />
                        <br /><br />
-                      
                         <div style={{ backgroundColor: "white", float: "right" }}>
                             <h2 style={{ color: "black", float: "right", paddingTop: "400px", paddingRight: "130px" }}>Up to 60% OFF<br></br>
                                 <div style={{ fontSize: "35px", fontFamily: 'monospace' }}>Live: Final Sale.</div>
